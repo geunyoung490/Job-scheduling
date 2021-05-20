@@ -81,8 +81,9 @@ public static int scheduling(int a[]){
 
 - N = 16
 
-![image](https://user-images.githubusercontent.com/80590172/118974691-13a59980-b9ae-11eb-881c-043a17fff6d2.png)2. Brute force 
+![image](https://user-images.githubusercontent.com/80590172/118974691-13a59980-b9ae-11eb-881c-043a17fff6d2.png) 
 
+#### 2. Brute Force
 ```java
 public static ArrayList<Integer> sum = new ArrayList();
 
